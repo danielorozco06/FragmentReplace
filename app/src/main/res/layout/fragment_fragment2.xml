@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="co.com.witz.fragmentreplace.Fragment2"
+    android:background="#00ff7b">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/frag2Text"
+        android:id="@+id/frag1TextView"
+        android:layout_gravity="center_horizontal|top" />
+</FrameLayout>
